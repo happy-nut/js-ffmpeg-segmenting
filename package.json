@@ -1,0 +1,8 @@
+{
+  "name": "js-ffmpeg-segmenting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/happy-nut/js-ffmpeg-segmenting.git",
+  "author": "happy-nut <happynut.dev@gmail.com>",
+  "license": "MIT"
+}
