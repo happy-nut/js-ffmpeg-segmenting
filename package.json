@@ -5,6 +5,9 @@
   "repository": "https://github.com/happy-nut/js-ffmpeg-segmenting.git",
   "author": "happy-nut <happynut.dev@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "tsc && node dist/app.js"
+  },
   "devDependencies": {
     "typescript": "~4.1.3"
   }
